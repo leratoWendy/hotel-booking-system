@@ -1,0 +1,30 @@
+<!-- Guest users -->
+<header>
+    <div class="navbar navbar-dark bg-info navbar-fixed-top" style="background-color: rgb(57, 142, 148);">
+      <div class="container d-flex justify-content-between align-items-center">
+        <div class="d-flex align-items-center">
+          <a routerLink="/home">
+            <img id="logo" src="assets/images/logo.jpg" />
+          </a>
+          <span class="navspacer">&nbsp;&nbsp;</span>
+          <span class="navspacer">&nbsp;&nbsp;</span>
+          <a *ngIf="!isLoggedIn" class="navbar-brand nav-link" routerLink="/home" routerLinkActive="active">Home</a>
+          <a class="navbar-brand nav-link" *ngIf="isAdminUser" routerLink="/admin" routerLinkActive="active">Home</a>
+          <a class="navbar-brand nav-link" *ngIf="isGuest" routerLink="/guest" routerLinkActive="active">Home</a>
+          <a class="navbar-brand nav-link" routerLink="/contactus" routerLinkActive="active">Contact Us</a>
+        </div>
+        <div class="d-flex align-items-center">
+          <ul class="nav navbar-nav ml-auto d-flex align-items-center">
+            <li class="nav nav-item">
+              <a *ngIf="!isLoggedIn" class="nav-link" routerLink="/login" routerLinkActive="active">Login</a>
+              <a *ngIf="isLoggedIn" class="nav-link" routerLinkActive="active"  routerLink="/userprofile">{{loggedInUsrFullName}}</a>
+            </li>
+            <li class="nav nav-item">
+              <a *ngIf="!isLoggedIn" class="nav-link" routerLink="/register" routerLinkActive="active">Register</a>
+              <a *ngIf="isLoggedIn" class="nav-link" routerLinkActive="active" (click)="Logout()">Logout</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>

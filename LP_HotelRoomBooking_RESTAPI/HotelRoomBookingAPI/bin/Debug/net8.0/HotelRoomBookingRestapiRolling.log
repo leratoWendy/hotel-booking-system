@@ -1,0 +1,1057 @@
+2024-05-13 02:23:19,825 [1] INFO Program.main method - REST API Started!
+2024-05-13 02:23:41,078 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-13 02:23:41,078 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-13 03:02:01,439 [1] INFO Program.main method - REST API Started!
+2024-05-13 03:11:37,357 [15] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-13 03:11:37,357 [15] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-13 03:36:42,037 [38] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-13 03:37:18,416 [38] INFO GuestsBookingsController - GuestsBookingsController - GET: gst/gstbookings/1
+2024-05-13 03:39:19,157 [36] INFO GuestsBookingsController - GuestsBookingsController - GET: /gst/rooms/1
+2024-05-13 03:39:19,180 [32] WARN GuestsBookingsController - User is not authorized to access /gst/rooms/{id}
+2024-05-13 03:39:47,670 [37] INFO GuestsBookingsController - GuestsBookingsController - GET: /gst/rooms/2
+2024-05-13 03:39:47,714 [36] WARN GuestsBookingsController - User is not authorized to access /gst/rooms/{id}
+2024-05-13 03:42:05,232 [32] INFO GuestsBookingsController - GuestsBookingsController - GET: /gst/rooms/1
+2024-05-13 03:42:05,241 [32] WARN GuestsBookingsController - User is not authorized to access /gst/rooms/{id}
+2024-05-13 03:42:34,775 [33] INFO GuestsBookingsController - GuestsBookingsController - GET: /gst/rooms/7
+2024-05-13 03:42:34,799 [33] WARN GuestsBookingsController - User is not authorized to access /gst/rooms/{id}
+2024-05-14 13:58:39,955 [1] INFO Program.main method - REST API Started!
+2024-05-14 14:35:35,968 [4] INFO Program.main method - REST API Started!
+2024-05-14 14:36:56,037 [4] INFO Program.main method - REST API Started!
+2024-05-14 14:42:15,210 [4] INFO Program.main method - REST API Started!
+2024-05-14 14:47:19,284 [4] INFO Program.main method - REST API Started!
+2024-05-14 14:47:55,017 [4] INFO Program.main method - REST API Started!
+2024-05-14 15:36:04,941 [1] INFO Program.main method - REST API Started!
+2024-05-14 15:36:47,584 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-14 15:36:47,584 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-16 03:29:33,329 [1] INFO Program.main method - REST API Started!
+2024-05-16 03:31:41,877 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 03:31:41,878 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-16 05:15:18,485 [1] INFO Program.main method - REST API Started!
+2024-05-16 06:31:43,037 [1] INFO Program.main method - REST API Started!
+2024-05-16 12:35:21,062 [1] INFO Program.main method - REST API Started!
+2024-05-16 16:38:19,692 [1] INFO Program.main method - REST API Started!
+2024-05-16 16:40:45,005 [1] INFO Program.main method - REST API Started!
+2024-05-16 16:44:29,721 [1] INFO Program.main method - REST API Started!
+2024-05-16 17:43:59,453 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 17:43:59,453 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 17:49:33,135 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 17:49:33,135 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 17:49:33,161 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 17:49:33,161 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 17:52:46,516 [30] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 17:52:46,516 [30] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-16 17:54:34,166 [30] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 17:54:34,166 [30] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-16 18:27:29,635 [58] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 18:27:29,636 [58] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 19:37:43,447 [1] INFO Program.main method - REST API Started!
+2024-05-16 19:59:21,601 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 19:59:21,602 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-16 19:59:21,909 [16] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 19:59:21,910 [16] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-16 19:59:22,408 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 19:59:22,408 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-16 20:08:36,330 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:08:36,334 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-16 20:21:09,068 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:21:09,070 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:30:29,122 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:30:29,122 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:51:30,469 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:51:30,470 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:51:35,445 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:51:35,445 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:51:36,424 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:51:36,425 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:51:36,846 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:51:36,846 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:51:37,853 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:51:37,853 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:51:37,895 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:51:37,895 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:51:38,228 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:51:38,229 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:53:19,663 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:53:19,663 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:53:20,675 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:53:20,675 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 20:56:45,560 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 20:56:45,560 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:01:45,133 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:01:45,133 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:01:46,542 [36] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:01:46,542 [36] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:01:47,085 [7] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:01:47,085 [7] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:01:47,387 [7] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:01:47,388 [7] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:03:01,946 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:03:01,947 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:03:37,617 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:03:37,617 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:11:29,143 [34] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:11:29,143 [34] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:13:21,875 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:13:21,875 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-16 21:15:17,840 [26] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-16 21:15:17,840 [26] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameHazelWhite
+2024-05-17 04:58:00,916 [1] INFO Program.main method - REST API Started!
+2024-05-17 05:09:30,735 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 05:09:30,735 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-05-17 05:21:39,296 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 05:21:39,296 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-17 06:00:18,882 [53] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 06:00:18,882 [53] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-17 06:01:58,444 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 06:01:58,444 [48] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-17 06:58:24,866 [54] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 06:58:24,867 [54] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-17 10:53:58,767 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 10:53:58,769 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 10:58:33,754 [23] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:13:35,119 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 11:13:35,120 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 11:13:36,999 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 11:13:37,000 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 11:13:44,302 [45] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 11:13:44,302 [45] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 11:13:45,017 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 11:13:45,017 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 11:19:46,504 [150] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 11:19:46,505 [150] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 11:30:02,033 [124] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 11:30:02,033 [124] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 11:30:55,795 [62] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 11:30:55,795 [62] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 11:41:53,707 [50] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 11:41:53,708 [50] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 11:49:36,147 [111] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:49:39,567 [54] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:50:12,086 [111] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:52:34,769 [39] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:57:52,156 [5] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:57:54,221 [17] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:58:00,088 [110] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:58:02,481 [17] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:58:03,757 [110] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:58:04,992 [122] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:58:06,711 [69] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:58:10,559 [122] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:58:14,163 [17] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:59:02,215 [132] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:59:04,423 [132] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:59:05,673 [132] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:59:09,470 [69] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:59:11,811 [111] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:59:13,287 [132] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:59:58,761 [111] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 11:59:59,833 [128] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 12:05:28,411 [58] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 12:05:28,411 [58] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 12:17:57,202 [120] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 12:17:57,202 [120] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-05-17 12:25:44,867 [52] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 12:25:44,867 [52] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-05-17 13:05:19,793 [46] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 13:05:19,793 [46] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 13:05:20,044 [122] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 13:07:43,287 [128] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 13:07:43,290 [128] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 13:07:43,317 [131] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 13:07:43,317 [131] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 13:50:00,634 [62] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 13:50:00,642 [62] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 13:50:00,878 [127] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 14:54:41,609 [73] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 14:54:41,610 [73] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 14:54:42,375 [73] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:00:58,631 [110] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:01:42,098 [144] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:01:43,110 [71] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:01:53,902 [130] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:01:54,794 [71] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:02:10,042 [112] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:02:15,269 [71] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:21:51,386 [39] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 15:21:51,386 [39] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 15:21:51,874 [148] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 15:22:12,812 [148] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 15:22:12,812 [148] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-17 15:31:18,943 [51] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 15:31:18,943 [51] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-17 16:36:09,023 [148] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 16:36:09,025 [148] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-17 16:37:21,675 [59] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 16:37:21,675 [59] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-17 16:37:22,318 [111] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-17 16:55:14,336 [73] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-17 16:55:14,339 [73] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-22 10:39:43,589 [1] INFO Program.main method - REST API Started!
+2024-05-22 12:05:26,660 [1] INFO Program.main method - REST API Started!
+2024-05-22 15:45:28,083 [1] INFO Program.main method - REST API Started!
+2024-05-22 20:23:00,069 [5] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-22 20:23:00,088 [5] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-22 20:45:11,852 [101] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-22 20:45:11,871 [101] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-22 20:56:47,678 [29] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-22 20:56:47,686 [29] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-22 20:57:27,023 [47] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-22 20:57:27,023 [47] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-22 21:42:34,514 [1] INFO Program.main method - REST API Started!
+2024-05-23 04:22:07,875 [1] INFO Program.main method - REST API Started!
+2024-05-23 04:35:23,026 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 04:35:23,026 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 04:36:07,799 [19] INFO GuestsBookingsController - GuestsBookingsController - GET: gst/gstbookings/1
+2024-05-23 04:43:43,919 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 04:43:43,919 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 04:43:44,137 [28] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 07:50:49,535 [63] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 07:50:49,537 [63] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 08:05:15,008 [1] INFO Program.main method - REST API Started!
+2024-05-23 08:41:54,252 [76] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 08:41:54,255 [76] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 08:42:19,482 [79] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 08:42:19,483 [79] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 08:42:24,654 [79] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 08:42:24,654 [79] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 08:44:43,336 [71] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 09:46:48,095 [43] INFO GuestsController - Reading guest info by Id
+2024-05-23 09:47:04,043 [31] INFO GuestsController - Reading guest info by Id
+2024-05-23 10:11:21,050 [50] INFO GuestsController - Reading guest info by Id
+2024-05-23 10:12:24,628 [35] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 10:28:03,694 [20] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 10:38:32,108 [65] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 10:41:56,314 [26] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 10:43:42,615 [47] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 10:54:08,596 [43] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 11:00:37,908 [65] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 11:01:54,143 [27] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 11:04:22,306 [24] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 11:07:12,882 [57] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 11:16:15,240 [25] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 11:22:54,972 [72] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 11:29:32,708 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 11:29:32,709 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 13:04:05,441 [68] INFO GuestsController - Reading guest info by Id
+2024-05-23 13:09:50,395 [70] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 13:10:03,303 [32] INFO GuestsController - Reading guest info by Id
+2024-05-23 13:15:52,523 [99] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 13:16:00,358 [99] INFO GuestsController - Reading guest info by Id
+2024-05-23 13:19:56,352 [32] INFO GuestsController - Reading guest info by Id
+2024-05-23 13:29:47,011 [1] INFO Program.main method - REST API Started!
+2024-05-23 13:30:22,209 [10] INFO GuestsController - Reading guest info by Id
+2024-05-23 13:43:12,474 [9] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 13:44:23,720 [29] INFO GuestsController - Reading guest info by Id
+2024-05-23 14:48:25,316 [40] INFO GuestsController - Reading guest info by Id
+2024-05-23 14:48:42,801 [47] INFO GuestsController - Reading guest info by Id
+2024-05-23 14:48:48,163 [40] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 15:21:00,510 [119] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 15:21:00,510 [119] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 15:25:38,453 [81] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 15:25:38,455 [81] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 15:26:33,995 [87] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 15:31:14,751 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 15:31:14,751 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 15:31:15,228 [3] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 15:33:16,919 [91] INFO GuestsController - Reading guest info by Id
+2024-05-23 15:33:25,973 [91] INFO GuestsController - Reading guest info by Id
+2024-05-23 15:54:43,504 [90] INFO GuestsController - Reading guest info by Id
+2024-05-23 16:36:49,232 [100] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 16:36:49,235 [100] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 16:36:51,216 [49] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 17:08:40,542 [113] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-23 17:08:40,543 [113] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-23 17:08:41,102 [101] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-23 17:08:59,937 [121] INFO GuestsController - Reading guest info by Id
+2024-05-23 17:09:19,086 [105] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 02:49:27,018 [81] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 02:49:27,019 [81] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 02:49:27,551 [77] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 02:49:31,197 [81] INFO GuestsController - Reading guest info by Id
+2024-05-24 02:49:31,427 [81] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:00:23,798 [1] INFO Program.main method - REST API Started!
+2024-05-24 03:01:08,096 [15] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 03:01:08,096 [15] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 03:01:10,971 [5] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:01:15,439 [18] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:01:25,468 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 03:01:25,468 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 03:01:25,626 [18] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:01:42,070 [5] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:06:03,511 [1] INFO Program.main method - REST API Started!
+2024-05-24 03:06:45,649 [9] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:06:55,306 [9] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:07:12,983 [5] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:07:13,040 [18] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:18:40,298 [53] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:26:23,069 [49] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 03:26:23,069 [49] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 03:26:24,486 [51] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:26:27,358 [55] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:32:57,689 [54] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 03:32:57,693 [54] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 03:32:58,157 [54] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:32:59,910 [52] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:33:13,601 [52] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:33:17,669 [54] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:33:17,708 [47] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:33:30,603 [47] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:40:15,402 [52] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:46:21,913 [37] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 03:46:21,913 [37] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 03:46:22,510 [41] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:46:30,130 [37] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:49:14,553 [34] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 03:49:14,553 [34] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 03:49:14,862 [38] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:49:37,548 [40] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:49:37,588 [34] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:49:38,849 [34] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:49:39,713 [38] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:52:25,149 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 03:52:25,150 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 03:52:25,432 [31] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:52:40,771 [28] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:56:50,465 [26] INFO GuestsController - Reading guest info by Id
+2024-05-24 03:56:56,116 [33] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 03:57:03,081 [24] INFO GuestsController - Reading guest info by Id
+2024-05-24 06:11:14,536 [1] INFO Program.main method - REST API Started!
+2024-05-24 07:45:59,191 [1] INFO Program.main method - REST API Started!
+2024-05-24 08:08:15,693 [9] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 09:12:20,177 [84] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 09:12:20,178 [84] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 09:12:21,939 [84] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 09:14:03,888 [85] INFO GuestsController - Reading guest info by Id
+2024-05-24 09:14:07,563 [85] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 09:14:07,628 [69] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 09:26:12,127 [74] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 09:27:13,063 [57] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 09:30:04,118 [61] INFO GuestsBookingsController - GuestsBookingsController - GET: gst/gstbookings/1
+2024-05-24 09:30:04,124 [61] WARN GuestsBookingsController - GuestsBookingsController - GET: gst/gstbookings/1 - Logged in user not authorized.
+2024-05-24 09:36:00,668 [17] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 09:40:14,598 [46] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 09:42:14,163 [32] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 10:26:09,483 [28] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 10:26:09,484 [28] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 10:26:59,671 [24] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 10:26:59,672 [24] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 10:27:00,149 [16] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 10:28:37,526 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 10:28:37,526 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 10:30:39,475 [49] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 10:30:39,475 [49] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 10:30:39,487 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 10:30:39,487 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 10:32:11,450 [71] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 10:32:11,450 [71] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-24 10:32:11,885 [13] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 11:27:39,495 [102] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 11:27:39,497 [102] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 11:27:40,137 [102] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 11:28:00,039 [99] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 11:28:00,039 [99] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 11:34:48,365 [106] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 11:34:48,366 [106] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 11:34:48,589 [106] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 11:38:17,797 [96] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 11:38:17,797 [96] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 11:38:18,241 [93] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 11:39:59,918 [89] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 11:39:59,919 [89] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 11:39:59,924 [92] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 11:39:59,924 [92] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 11:40:00,449 [93] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 11:51:18,338 [74] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 11:51:18,339 [74] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 11:51:18,740 [48] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 11:54:52,694 [84] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 11:54:52,694 [84] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 11:54:53,619 [84] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 11:54:57,516 [111] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:00:53,794 [115] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 12:00:53,795 [115] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 12:00:54,842 [119] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:01:01,143 [103] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:01:13,620 [103] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 12:01:13,620 [103] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 12:03:09,724 [98] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 12:03:09,724 [98] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-24 12:03:10,113 [26] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 12:03:13,885 [26] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 12:03:45,188 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 12:03:45,188 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 12:07:24,037 [111] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 12:07:24,037 [111] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 12:11:03,808 [98] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 12:11:03,808 [98] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 12:11:04,036 [90] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:12:45,261 [91] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 12:12:45,262 [91] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 12:12:46,354 [90] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:12:51,714 [33] INFO GuestsController - Reading guest info by Id
+2024-05-24 12:12:57,798 [97] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:13:01,647 [97] INFO GuestsController - Reading guest info by Id
+2024-05-24 12:13:05,111 [91] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:41:24,450 [91] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 12:41:24,450 [91] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 12:41:25,878 [97] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:41:40,751 [91] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 12:41:47,034 [97] INFO GuestsController - GuestsBookingsController - GET all Guests: /gst
+2024-05-24 13:47:01,266 [1] INFO Program.main method - REST API Started!
+2024-05-24 14:39:06,964 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 14:39:06,964 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 14:39:09,082 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 14:39:09,082 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 14:39:10,030 [15] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 14:39:10,215 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 14:39:10,215 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 14:39:10,399 [20] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 14:39:25,767 [17] INFO GuestsController - Reading guest info by Id
+2024-05-24 14:39:28,692 [20] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 14:39:33,195 [19] INFO GuestsController - Reading guest info by Id
+2024-05-24 14:39:38,983 [20] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 14:40:09,660 [19] INFO GuestsController - Reading guest info by Id
+2024-05-24 15:12:48,484 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 15:12:48,486 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-24 15:12:49,175 [19] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 15:13:31,352 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 15:13:31,352 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 15:13:31,422 [42] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 15:13:31,422 [42] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-24 15:13:31,591 [41] INFO GuestsController - RoomsController - GET rooms
+2024-05-24 15:30:03,764 [89] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 15:30:03,765 [89] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameMariaBellRecept
+2024-05-24 15:30:04,229 [89] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-05-24 16:09:31,035 [1] INFO Program.main method - REST API Started!
+2024-05-24 16:16:46,746 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:16:46,747 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:16:49,318 [7] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 16:25:12,566 [46] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:25:12,566 [46] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:25:13,111 [45] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 16:26:23,626 [34] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:26:23,626 [34] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:26:26,495 [32] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:26:26,496 [32] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:26:29,008 [31] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:26:29,008 [31] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:26:43,300 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:26:43,300 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:29:53,445 [1] INFO Program.main method - REST API Started!
+2024-05-24 16:32:32,481 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:32:32,481 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:32:32,482 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:32:32,482 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:32:35,566 [10] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 16:32:39,942 [7] INFO GuestsController - Reading guest info by Id
+2024-05-24 16:32:59,098 [7] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 16:34:16,582 [1] INFO Program.main method - REST API Started!
+2024-05-24 16:34:34,634 [16] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 16:35:05,235 [15] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:35:05,236 [15] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:35:08,539 [16] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 16:35:11,953 [13] INFO GuestsController - Reading guest info by Id
+2024-05-24 16:35:13,954 [23] INFO GuestsController - GuestsController - DELETE Guests
+2024-05-24 16:35:14,250 [16] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 16:39:11,856 [5] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 16:39:11,856 [5] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 16:39:12,344 [10] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 17:12:04,358 [56] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 17:12:04,358 [56] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 17:12:04,780 [29] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 17:13:41,429 [25] INFO GuestsController - Reading guest info by Id
+2024-05-24 17:13:41,456 [48] INFO GuestsController - Reading guest info by Id
+2024-05-24 17:18:26,160 [47] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 17:18:26,161 [47] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 17:18:27,173 [47] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 17:18:30,485 [32] INFO GuestsController - Reading guest info by Id
+2024-05-24 17:18:40,252 [42] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 17:30:03,528 [1] INFO Program.main method - REST API Started!
+2024-05-24 17:32:55,862 [17] INFO GuestsController - GuestsController - POST Guests: /gst
+2024-05-24 17:33:47,348 [20] INFO GuestsController - GuestsController - PUT Guests
+2024-05-24 17:33:47,348 [20] WARN GuestsController - The Id provided is not assigned to any guest
+2024-05-24 17:34:12,784 [25] INFO GuestsController - GuestsController - PUT Guests
+2024-05-24 17:34:12,785 [25] WARN GuestsController - The Id provided is not assigned to any guest
+2024-05-24 17:34:19,865 [23] INFO GuestsController - GuestsController - PUT Guests
+2024-05-24 17:34:19,865 [23] WARN GuestsController - The Id provided is not assigned to any guest
+2024-05-24 17:34:20,749 [23] INFO GuestsController - GuestsController - PUT Guests
+2024-05-24 17:34:20,749 [23] WARN GuestsController - The Id provided is not assigned to any guest
+2024-05-24 17:34:21,214 [25] INFO GuestsController - GuestsController - PUT Guests
+2024-05-24 17:34:21,215 [25] WARN GuestsController - The Id provided is not assigned to any guest
+2024-05-24 17:34:21,805 [23] INFO GuestsController - GuestsController - PUT Guests
+2024-05-24 17:34:21,805 [23] WARN GuestsController - The Id provided is not assigned to any guest
+2024-05-24 17:35:09,086 [25] INFO GuestsController - GuestsController - PUT Guests
+2024-05-24 17:35:48,743 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 17:35:48,743 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 17:35:51,156 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 17:35:51,159 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 17:35:52,151 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 17:35:52,152 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 17:35:52,834 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 17:35:52,834 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 17:35:53,304 [25] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 17:35:53,325 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 17:35:53,325 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 17:35:53,756 [17] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 17:36:12,159 [19] INFO GuestsController - Reading guest info by Id
+2024-05-24 18:05:50,365 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-24 18:05:50,368 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-24 18:05:51,116 [58] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 18:05:54,858 [11] INFO GuestsController - Reading guest info by Id
+2024-05-24 18:06:02,689 [58] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 18:06:11,572 [41] INFO GuestsController - Reading guest info by Id
+2024-05-24 18:06:14,865 [58] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-24 18:06:19,224 [58] INFO GuestsController - Reading guest info by Id
+2024-05-24 18:06:21,078 [58] INFO GuestsController - GuestsController - DELETE Guests
+2024-05-24 18:06:21,168 [41] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 19:20:58,625 [1] INFO Program.main method - REST API Started!
+2024-05-26 19:47:18,946 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 19:47:18,947 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 19:47:22,726 [10] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 19:47:33,128 [16] INFO GuestsController - Reading guest info by Id
+2024-05-26 19:47:37,518 [10] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 19:47:41,198 [3] INFO GuestsController - Reading guest info by Id
+2024-05-26 19:53:04,742 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 19:53:04,742 [33] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 19:53:05,167 [35] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 19:54:37,664 [40] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 19:54:37,664 [40] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 19:54:38,167 [41] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 19:54:40,524 [40] INFO GuestsController - Reading guest info by Id
+2024-05-26 20:00:41,508 [44] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:00:41,509 [44] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:00:42,343 [35] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:00:46,789 [35] INFO GuestsController - Reading guest info by Id
+2024-05-26 20:04:33,338 [28] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:04:33,338 [28] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:04:33,867 [17] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:04:37,316 [28] INFO GuestsController - Reading guest info by Id
+2024-05-26 20:15:37,051 [1] INFO Program.main method - REST API Started!
+2024-05-26 20:17:55,640 [20] INFO GuestsController - GuestsController - PUT Guests
+2024-05-26 20:17:58,131 [20] WARN GuestsController - The Id provided is not assigned to any guest
+2024-05-26 20:19:45,694 [1] INFO Program.main method - REST API Started!
+2024-05-26 20:20:53,929 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:20:53,929 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:21:45,802 [19] INFO GuestsController - GuestsController - PUT Guests
+2024-05-26 20:22:08,495 [19] WARN GuestsController - The Id provided is not assigned to any guest
+2024-05-26 20:29:47,610 [1] INFO Program.main method - REST API Started!
+2024-05-26 20:30:50,005 [18] INFO GuestsController - GuestsController - PUT Guests
+2024-05-26 20:33:31,101 [1] INFO Program.main method - REST API Started!
+2024-05-26 20:34:44,892 [5] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:34:44,892 [5] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:34:46,333 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:34:46,333 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:34:47,214 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:34:47,214 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:34:48,036 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:34:48,036 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:34:48,533 [23] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:34:48,615 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:34:48,615 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:34:48,876 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:34:48,877 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:34:49,116 [19] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:34:55,060 [25] INFO GuestsController - Reading guest info by Id
+2024-05-26 20:42:32,969 [27] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:42:32,969 [27] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:42:33,376 [27] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:42:36,359 [3] INFO GuestsController - Reading guest info by Id
+2024-05-26 20:46:06,264 [24] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:46:06,264 [24] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:46:06,548 [31] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:47:51,755 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:47:51,755 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:47:52,090 [20] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:50:18,305 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:50:18,305 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:50:18,590 [19] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:52:31,725 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:52:31,725 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:52:32,107 [5] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:53:43,809 [36] INFO GuestsController - Reading guest info by Id
+2024-05-26 20:56:04,569 [37] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:56:04,569 [37] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:56:04,847 [38] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:57:10,066 [5] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:57:10,066 [5] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:57:10,413 [40] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:57:24,677 [42] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:57:24,677 [42] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:57:24,947 [41] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 20:57:32,717 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 20:57:32,717 [41] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 20:57:32,837 [40] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:12:19,162 [1] INFO Program.main method - REST API Started!
+2024-05-26 21:13:26,925 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 21:13:26,925 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 21:13:28,763 [16] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:13:32,757 [16] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:13:45,719 [21] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:14:10,358 [21] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:14:12,031 [17] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:14:17,321 [25] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:14:26,076 [25] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:14:26,106 [17] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:16:29,853 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 21:16:29,853 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 21:16:30,189 [29] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:16:32,230 [29] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:23:07,179 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 21:23:07,179 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 21:23:07,180 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 21:23:07,180 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 21:23:07,543 [26] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:23:13,258 [25] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:30:48,745 [40] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 21:30:48,746 [40] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 21:30:49,157 [40] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:30:52,603 [41] INFO GuestsController - Reading guest info by Id
+2024-05-26 21:31:18,763 [43] INFO GuestsController - GuestsController - PUT Guests
+2024-05-26 21:31:23,334 [41] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:44:20,599 [94] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 21:44:20,599 [94] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-05-26 21:44:21,091 [97] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:44:46,230 [95] INFO GuestsController - GuestsController - POST Guests: /gst
+2024-05-26 21:46:24,263 [100] INFO GuestsController - GuestsController - POST Guests: /gst
+2024-05-26 21:50:11,186 [99] INFO GuestsController - GuestsController - POST Guests: /gst
+2024-05-26 21:50:11,252 [89] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:51:26,860 [88] INFO GuestsController - GuestsController - POST Guests: /gst
+2024-05-26 21:51:43,881 [86] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-05-26 21:52:09,197 [96] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-05-26 21:52:09,198 [96] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-05-26 21:52:09,346 [83] INFO GuestsController - RoomsController - GET rooms
+2024-05-31 16:36:25,138 [1] INFO Program.main method - REST API Started!
+2024-05-31 16:37:29,073 [1] INFO Program.main method - REST API Started!
+2024-05-31 17:42:17,375 [1] INFO Program.main method - REST API Started!
+2024-06-01 17:46:14,725 [1] INFO Program.main method - REST API Started!
+2024-06-01 17:57:05,606 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-01 17:57:05,607 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameKganyaPhetla
+2024-06-01 18:37:23,335 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-01 18:37:23,335 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameKganyaPhetla
+2024-06-01 18:44:36,042 [49] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-01 18:44:36,042 [49] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-01 18:48:58,876 [46] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-01 18:48:58,876 [46] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 02:45:25,016 [1] INFO Program.main method - REST API Started!
+2024-06-02 02:46:29,431 [11] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 02:51:56,507 [25] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 06:52:20,754 [113] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 06:52:20,757 [113] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameAliceBaker
+2024-06-02 06:53:01,991 [115] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 06:54:01,200 [115] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-02 06:55:03,000 [113] INFO GuestsBookingsController - GuestsBookingsController - GET MyBookings: /gst
+2024-06-02 07:04:26,763 [1] INFO Program.main method - REST API Started!
+2024-06-02 07:05:09,967 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 07:05:09,967 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameAliceBaker
+2024-06-02 07:05:47,243 [20] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:33:26,883 [1] INFO Program.main method - REST API Started!
+2024-06-02 07:33:55,878 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 07:33:55,878 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameAliceBaker
+2024-06-02 07:34:33,625 [18] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:34:33,628 [18] WARN GuestsBookingsController - User ID is not a valid integer.
+2024-06-02 07:36:36,804 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 07:36:36,804 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 07:37:09,273 [13] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:37:09,273 [13] WARN GuestsBookingsController - User ID is not a valid integer.
+2024-06-02 07:37:18,636 [13] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:37:18,636 [13] WARN GuestsBookingsController - User ID is not a valid integer.
+2024-06-02 07:37:19,259 [9] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:37:19,260 [9] WARN GuestsBookingsController - User ID is not a valid integer.
+2024-06-02 07:37:19,930 [13] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:37:19,931 [13] WARN GuestsBookingsController - User ID is not a valid integer.
+2024-06-02 07:37:20,477 [13] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:37:20,477 [13] WARN GuestsBookingsController - User ID is not a valid integer.
+2024-06-02 07:45:02,425 [1] INFO Program.main method - REST API Started!
+2024-06-02 07:45:53,568 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 07:45:53,568 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 07:46:26,597 [17] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:46:26,598 [17] WARN GuestsBookingsController - User ID is not a valid integer.
+2024-06-02 07:50:37,040 [31] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:50:37,042 [31] WARN GuestsBookingsController - User ID is not a valid integer.
+2024-06-02 07:53:00,959 [1] INFO Program.main method - REST API Started!
+2024-06-02 07:53:24,082 [10] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 07:54:06,104 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 07:54:06,104 [10] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 07:55:07,142 [9] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-02 12:09:15,432 [79] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 12:09:15,438 [79] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 12:40:06,849 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 12:40:06,849 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 12:40:06,850 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 12:40:06,850 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 13:45:44,327 [114] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 13:45:44,334 [114] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 13:45:46,123 [111] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 18:43:17,494 [92] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 18:43:17,500 [92] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 18:43:18,896 [7] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 18:49:14,720 [82] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 18:49:14,721 [82] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 18:49:15,881 [51] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 18:49:22,756 [82] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:17:07,569 [67] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 19:17:07,569 [67] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 19:17:07,583 [81] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 19:17:07,583 [81] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 19:17:08,785 [81] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:17:17,842 [123] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:20:36,263 [127] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 19:20:36,263 [127] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJamesLopez
+2024-06-02 19:20:36,632 [76] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:47:14,237 [16] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:47:18,288 [16] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:47:22,924 [80] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:57:12,094 [22] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:57:28,147 [48] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:57:29,852 [68] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 19:58:14,781 [22] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:01:39,169 [22] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:01:52,017 [74] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:02:40,488 [74] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:02:44,060 [100] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:02:45,276 [94] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:03:10,026 [100] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:03:18,083 [50] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:06:56,471 [50] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 20:06:56,471 [50] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 20:06:56,486 [71] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-02 20:06:56,486 [71] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-02 20:06:57,727 [94] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:26:36,187 [50] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:26:54,085 [104] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:26:56,855 [104] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:27:31,756 [75] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:27:39,018 [100] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:27:40,972 [94] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:27:43,623 [104] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:27:46,066 [94] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:27:54,916 [100] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:28:50,928 [48] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:28:51,864 [94] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:28:52,874 [106] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 20:35:07,287 [131] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 21:04:27,377 [118] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 21:05:04,687 [119] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 21:05:18,892 [36] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 21:05:26,745 [129] INFO GuestsController - RoomsController - GET rooms
+2024-06-02 21:05:41,860 [65] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 00:32:02,352 [57] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:13:25,224 [127] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 01:13:25,224 [127] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 01:13:25,224 [120] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 01:13:25,225 [120] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 01:17:55,543 [57] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 01:17:55,543 [57] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 01:21:59,812 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 01:21:59,813 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 01:22:01,263 [55] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:25:53,311 [111] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:25:59,418 [122] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:26:02,006 [71] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:26:05,162 [71] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:29:32,641 [127] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:29:34,960 [122] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:29:41,314 [20] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:29:49,169 [20] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:40:29,424 [84] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:41:06,923 [34] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:41:08,504 [10] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:41:15,092 [34] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:41:20,190 [10] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:44:44,161 [47] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:48:15,512 [15] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:50:13,478 [46] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 01:50:13,478 [46] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 01:50:14,061 [46] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:53:46,449 [82] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 01:55:28,947 [78] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 02:03:29,719 [126] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 05:47:14,233 [1] INFO Program.main method - REST API Started!
+2024-06-03 05:57:48,602 [9] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-03 06:19:42,953 [1] INFO Program.main method - REST API Started!
+2024-06-03 06:23:25,296 [5] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-03 06:24:08,863 [10] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-03 07:06:04,351 [1] INFO Program.main method - REST API Started!
+2024-06-03 07:07:18,697 [13] INFO GuestsBookingsController - GuestsBookingsController - DELETE booking by Id
+2024-06-03 07:08:17,844 [19] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-03 07:18:42,474 [1] INFO Program.main method - REST API Started!
+2024-06-03 07:19:17,000 [5] INFO GuestsBookingsController - GuestsBookingsController - DELETE booking by Id
+2024-06-03 07:19:45,669 [16] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-03 09:13:53,338 [90] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 09:13:53,344 [90] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 09:13:57,735 [90] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 09:14:48,915 [27] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 09:14:48,915 [27] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 09:14:48,915 [72] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 09:14:48,915 [72] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 09:14:50,268 [24] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 09:15:00,509 [27] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 10:51:02,089 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 10:51:02,091 [35] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 10:51:03,604 [35] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 10:52:21,452 [36] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 10:52:30,796 [130] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 10:52:30,796 [130] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 10:52:32,195 [130] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 10:52:38,934 [54] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 11:07:39,255 [133] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 11:07:39,256 [133] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 11:07:40,714 [54] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 13:02:58,019 [1] INFO Program.main method - REST API Started!
+2024-06-03 13:43:06,925 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 13:43:06,926 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 13:43:12,094 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 13:43:12,094 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 13:43:13,586 [20] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 13:54:51,827 [19] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 13:54:57,443 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 13:54:57,443 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 13:54:57,447 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 13:54:57,447 [23] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 13:54:58,900 [20] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 13:57:10,897 [26] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-03 14:00:08,830 [27] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:00:43,269 [21] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 14:00:43,269 [21] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 14:00:43,282 [21] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 14:00:43,282 [21] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 14:00:44,693 [24] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:01:55,576 [29] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:03:01,853 [22] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:05:52,463 [22] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:07:25,155 [13] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:08:12,716 [22] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:14:47,890 [15] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:15:15,553 [16] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:15:19,737 [15] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:17:14,561 [21] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:17:16,697 [19] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 14:21:31,966 [24] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 14:21:31,966 [24] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 14:21:33,164 [18] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 18:18:13,606 [28] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 18:18:13,607 [28] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 18:18:15,008 [26] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 18:18:19,109 [26] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 18:21:48,404 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 18:21:48,405 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 18:21:49,793 [25] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 18:22:03,561 [27] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 18:22:03,561 [27] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 18:22:04,904 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 18:22:04,904 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 18:22:04,935 [23] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 18:22:09,684 [22] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 18:37:17,567 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 18:37:17,567 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 18:37:19,055 [27] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:37:59,111 [13] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:38:25,720 [13] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:39:36,100 [9] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:39:39,816 [15] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:39:41,942 [15] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:39:43,115 [22] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:39:46,498 [15] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:39:49,447 [22] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:39:51,383 [15] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 18:42:17,797 [7] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 18:42:17,797 [7] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 18:42:17,823 [16] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 18:42:17,823 [16] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 18:42:19,250 [16] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:28:01,358 [77] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:28:30,005 [68] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 19:28:30,005 [68] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 19:28:31,114 [71] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:28:41,258 [66] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:29:25,516 [68] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 19:29:25,516 [68] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 19:29:26,676 [63] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:29:31,292 [71] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:30:12,463 [71] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 19:30:12,464 [71] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 19:30:13,847 [67] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:30:18,536 [62] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:33:24,048 [67] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:34:27,564 [65] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:35:11,872 [69] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:35:14,538 [66] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:35:45,446 [69] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 19:35:45,446 [69] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 19:35:46,575 [71] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:45:18,341 [50] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:51:27,493 [68] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:51:42,718 [68] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 19:51:42,718 [68] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 19:51:44,178 [40] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:53:31,135 [42] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:54:08,786 [67] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:54:14,081 [26] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:54:35,408 [42] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:55:05,740 [40] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 19:55:05,741 [40] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 19:55:07,008 [50] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 19:55:11,715 [40] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:00:07,588 [58] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:00:07,588 [58] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:00:09,096 [55] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:00:16,617 [59] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:02:44,834 [37] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:02:44,834 [37] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:02:46,293 [41] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:02:53,376 [33] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:04:36,600 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:04:36,600 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:04:38,038 [25] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:04:54,225 [17] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:08:21,375 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:08:21,375 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:08:22,879 [38] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:08:28,703 [35] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:21:32,145 [83] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:21:32,145 [83] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:21:33,302 [87] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:21:45,247 [84] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:27:26,504 [92] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:27:26,504 [92] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:27:27,642 [89] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:40:56,168 [93] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:40:56,168 [93] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:40:57,384 [94] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:41:49,925 [93] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:41:49,925 [93] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 20:41:51,072 [93] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 20:42:02,752 [105] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:42:02,752 [105] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 20:42:03,880 [105] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 20:42:30,320 [105] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:42:30,320 [105] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 20:42:30,346 [103] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:42:30,346 [103] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 20:42:31,481 [108] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 20:42:36,361 [105] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 20:42:49,514 [107] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:42:49,514 [107] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:42:49,568 [106] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:42:49,568 [106] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:42:50,635 [108] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:43:10,581 [103] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:43:10,581 [103] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:43:11,720 [108] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:44:25,635 [107] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 20:44:25,636 [107] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 20:44:26,739 [107] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 20:55:50,669 [112] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:00:09,876 [120] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:06:03,648 [125] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:06:12,579 [120] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:06:42,465 [124] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:06:45,430 [124] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:06:45,430 [124] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 21:06:46,803 [125] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:07:00,109 [124] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:07:54,618 [124] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:07:54,618 [124] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 21:07:56,077 [124] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:10:12,337 [116] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:10:12,337 [116] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 21:10:13,506 [119] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:17:23,111 [113] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:17:23,111 [113] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 21:17:24,246 [114] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:17:30,005 [114] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:17:49,554 [118] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:17:49,554 [118] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 21:17:50,659 [111] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:17:56,049 [111] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:20:09,363 [120] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:20:09,363 [120] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 21:20:09,363 [119] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:20:09,363 [119] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNamePeterCoxAdmin
+2024-06-03 21:20:10,549 [123] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:20:15,309 [122] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:20:53,756 [122] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-03 21:21:04,815 [91] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:21:04,815 [91] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 21:21:05,948 [86] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:21:11,743 [91] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:25:09,050 [85] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:27:17,757 [85] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:27:20,110 [5] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:27:39,071 [85] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:29:52,295 [75] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:29:59,346 [60] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:46:09,244 [73] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:46:09,245 [73] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 21:46:10,357 [73] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:46:16,539 [39] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:47:31,170 [61] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:48:34,152 [61] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-03 21:48:34,152 [61] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-03 21:48:35,276 [61] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:48:39,059 [38] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:51:58,884 [61] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:52:14,739 [20] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:52:22,955 [9] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:52:27,213 [70] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:52:31,151 [70] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:52:35,196 [70] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:52:38,113 [58] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:52:42,300 [58] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 21:53:31,677 [70] INFO GuestsController - RoomsController - GET rooms
+2024-06-03 22:02:17,819 [1] INFO Program.main method - REST API Started!
+2024-06-04 07:45:12,833 [1] INFO Program.main method - REST API Started!
+2024-06-04 07:53:04,203 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-04 07:53:04,204 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-04 07:53:08,387 [3] INFO GuestsController - RoomsController - GET rooms
+2024-06-04 07:53:50,712 [16] INFO GuestsController - RoomsController - GET rooms
+2024-06-04 17:15:01,848 [1] INFO Program.main method - REST API Started!
+2024-06-04 17:15:19,533 [7] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-04 17:15:19,534 [7] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-04 17:15:25,665 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-04 17:15:25,665 [13] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJohnSmith
+2024-06-04 17:15:26,314 [7] INFO GuestsController - RoomsController - GET rooms
+2024-06-04 17:16:11,409 [13] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-04 17:16:17,972 [21] INFO GuestsController - RoomsController - GET rooms
+2024-06-04 17:23:28,008 [24] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-04 17:23:28,009 [24] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameAliceBaker
+2024-06-04 17:23:29,438 [26] INFO GuestsController - RoomsController - GET rooms
+2024-06-04 17:24:20,209 [24] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-04 17:24:26,394 [22] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-04 17:24:29,508 [22] INFO GuestsBookingsController - GuestsBookingsController - POST CreateBooking
+2024-06-04 17:37:31,097 [1] INFO Program.main method - REST API Started!
+2024-06-04 17:37:58,615 [14] INFO GuestsController - GuestsController get guest by name
+2024-06-12 21:34:04,317 [1] INFO Program.main method - REST API Started!
+2024-06-12 21:37:24,653 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:37:24,653 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi
+2024-06-12 21:38:06,311 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:38:06,311 [17] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi  
+2024-06-12 21:38:13,209 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:38:13,209 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi 
+2024-06-12 21:38:18,481 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:38:18,481 [18] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi
+2024-06-12 21:39:16,504 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:39:16,504 [9] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi
+2024-06-12 21:44:16,489 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:44:16,489 [25] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi
+2024-06-12 21:51:04,491 [1] INFO Program.main method - REST API Started!
+2024-06-12 21:53:25,979 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:53:25,979 [22] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi
+2024-06-12 21:53:27,507 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:53:27,508 [19] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi
+2024-06-12 21:54:47,218 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:54:47,219 [3] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi
+2024-06-12 21:56:08,534 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login
+2024-06-12 21:56:08,534 [20] INFO ApplicationUserController - ApplicationUserController - PostApplicationUser : /api/ApplicationUser/Login model.UserNameJabuNkosi
+2024-06-13 09:57:47,849 [1] INFO Program.main method - REST API Started!
+2024-06-13 19:18:14,502 [1] INFO Program.main method - REST API Started!
+2024-06-13 19:25:25,721 [1] INFO Program.main method - REST API Started!
+2024-06-30 23:26:57,313 [1] INFO Program.main method - REST API Started!
+2024-06-30 23:27:17,448 [18] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-30 23:31:56,625 [15] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-07-01 00:12:26,299 [20] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-07-01 15:55:04,720 [15] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-07-02 10:46:57,861 [1] INFO Program.main method - REST API Started!
+2024-07-02 10:56:39,135 [20] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-07-03 11:53:43,373 [75] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-07-03 12:11:26,119 [158] INFO GuestsController - GuestsController - GET all Guests: /gst

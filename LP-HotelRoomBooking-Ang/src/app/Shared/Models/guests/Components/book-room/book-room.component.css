@@ -1,0 +1,46 @@
+
+.form-container {
+    margin-top: 50px;
+  }
+  
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  
+  label {
+    font-weight: bold;
+  }
+  
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #c82333;
+  }
+  
+  .center-form {
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  .center-cancel-button {
+    text-align: center;
+  }
+  

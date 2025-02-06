@@ -1,0 +1,28 @@
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\Pocos.dll.config
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\Pocos.dll
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\Pocos.pdb
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\EntityFramework.dll
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\EntityFramework.xml
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.csproj.AssemblyReference.cache
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.csproj.CoreCompileInputs.cache
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.csproj.Up2Date
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.dll
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.pdb
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.Migrations.addUserData.resources
+C:\Users\local.user.LAPSAF80204\Documents\VisualStudioWorkplace\Week5OOD_DataAcess\lw_hotelroombooking_wk1.netdata\LW_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.csproj.GenerateResource.cache
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\Pocos.dll.config
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\Pocos.dll
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\Pocos.pdb
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\EntityFramework.dll
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\EntityFramework.xml
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.csproj.AssemblyReference.cache
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.csproj.CoreCompileInputs.cache
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.csproj.Up2Date
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.dll
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.pdb
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.Migrations.changes.resources
+C:\Users\local.user.LAPSAF80204\Documents\Web App\LP_HotelRoomBooking_EFCODE1ST\Pocos\obj\Debug\Pocos.csproj.GenerateResource.cache

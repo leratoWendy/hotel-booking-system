@@ -1,0 +1,13 @@
+.card-img-top {
+    object-fit: left;
+    width: 40%;
+  }
+  
+  .card-body {
+    text-align: left;
+  }
+  
+  .list-group-item {
+    margin-top: 20px;
+  }
+  

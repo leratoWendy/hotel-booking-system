@@ -1,0 +1,127 @@
+<div class="center-details">
+    <div class="vertical-center">
+      <img class="center" src="assets/images/registration.png" width="80px" height="90px" />
+  
+      <form #registrationForm="ngForm"  autocomplete="off" (submit)="onSubmit(registrationForm)">
+  
+        <div class="form-group">
+          <label for="userName" class="col-sm-4 col-form-label">UserName</label>
+          <div class="col-sm-8">
+            <input type="text" class="form-control" #userName="ngModel" name="userName"
+              [(ngModel)]="formModel.userName" minlength="6" required />
+          </div>
+        </div>
+  
+        <div *ngIf="userName.invalid && (userName.dirty || userName.touched)" class="alert">
+          <div *ngIf="userName.errors?.['required']" class="text-danger">User Name is required.</div>
+          <div *ngIf="userName.errors?.['minlength']" class="text-danger">Invalid User Name - Must be at least 7 characters.</div>
+        </div>
+        <br />
+        <br />
+        <br />
+  
+  
+        <div class="form-group">
+          <label for="email" class="col-sm-4 col-form-label">Email</label>
+          <div class="col-sm-8">
+            <input type="email" class="form-control" #email="ngModel" name="email"
+              [(ngModel)]="formModel.email" minlength="7" required />
+          </div>
+        </div>
+  
+  
+        <div *ngIf="email.invalid && (email.dirty || email.touched)" class="alert">
+          <div *ngIf="email.errors?.['email']" class="text-danger">Primary email not valid.</div>
+          <div *ngIf="email.errors?.['required']" class="text-danger">Email address is required</div>
+  
+          <div *ngIf="email.errors?.['pattern']" class="text-danger">Please provide a valid email address</div>
+          <div *ngIf="email.errors?.['minlength']" class="text-danger">Please provide a valid email address - Must be at least 7 characters with @.</div>
+        </div>
+        <br />
+        <br />
+  
+  
+        <div class="form-group">
+          <label for="firstName" class="col-sm-4 col-form-label">FirstName</label>
+          <div class="col-sm-8">
+            <input type="text" class="form-control" #firstName="ngModel"
+              name="firstName" [(ngModel)]="formModel.firstName" minlength="3" required />
+          </div>
+        </div>
+  
+        <div *ngIf="firstName.invalid && (firstName.dirty || firstName.touched)" class="alert">
+          <div *ngIf="firstName.errors?.['required']" class="text-danger">FirstName is required.</div>
+          <div *ngIf="firstName.errors?.['minlength']" class="text-danger">Invalid FirstName - Must be at least 3 characters.</div>
+        </div>
+        <br />
+        <br />
+  
+        <div class="form-group">
+          <label for="lastName" class="col-sm-4 col-form-label">LastName</label>
+          <div class="col-sm-8">
+            <input type="text" class="form-control"  #lastName="ngModel"
+              name="lastName" [(ngModel)]="formModel.lastName" minlength="3" required />
+          </div>
+        </div>
+  
+        <div *ngIf="lastName.invalid && (lastName.dirty || lastName.touched)" class="alert">
+          <div *ngIf="lastName.errors?.['required']" class="text-danger">LastName/Surname is required.</div>
+          <div *ngIf="lastName.errors?.['minlength']" class="text-danger">Invalid LastName/Surname - Must be at least 3 characters.</div>
+        </div>
+        <br />
+        <br />
+  
+  
+        <div class="form-group">
+          <label for="password" class="col-sm-4 col-form-label">Password</label>
+          <div class="col-sm-8">
+            <input type="password" class="form-control" aria-describedby="basic-addon3"
+              #password="ngModel" name="password" [(ngModel)]="formModel.password" minlength="6" maxlength="20"
+              required />
+          </div>
+        </div>
+  
+  
+  
+  
+        <div *ngIf="password.invalid && (password.dirty || password.touched)" class="alert">
+          <div *ngIf="password.errors?.['required']" class="text-danger">Password is required.</div>
+          <div *ngIf="password.errors?.['minlength']" class="text-danger">Invalid password - Must be at least 6 characters.</div>
+          <div *ngIf="password.errors?.['maxlength']" class="text-danger">Invalid password - Should not be more than 20 characters.</div>
+          <div
+            *ngIf="password.value != confirmPassword.value  && confirmPassword.invalid && (confirmPassword.dirty || confirmPassword.touched)"
+            class="text-danger">
+            Mismatch password - passwords MUST match with confirmPassword. Please try again.
+          </div>
+        </div>
+        <br />
+        <br />
+  
+        <div class="form-group">
+          <label for="confirmPassword" class="col-sm-4 col-form-label">Confirm Password</label>
+          <div class="col-sm-8">
+            <input type="password" class="form-control" aria-describedby="basic-addon3"
+               #confirmPassword="ngModel" name="confirmPassword"
+              [(ngModel)]="formModel.confirmPassword" minlength="6" maxlength="20" required />
+          </div>
+        </div>
+  
+  
+        <div *ngIf="confirmPassword.invalid && (confirmPassword.dirty || confirmPassword.touched)" class="alert">
+          <div *ngIf="confirmPassword.errors?.['required']" class="text-danger">Password is required.</div>
+          <div *ngIf="password.value != confirmPassword.value && password.invalid && (password.dirty || password.touched)"
+            class="text-danger">Mismatch password - passwords MUST match with confirmPassword. Please try again.</div>
+        </div>
+        <hr />
+  
+        <div class="form-row">
+          <div class="d-grid gap-2">
+            <button type="submit" class="btn btn-primary btn-lg btn-block" [disabled]="registrationForm.invalid">
+              Register
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  

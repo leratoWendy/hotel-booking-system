@@ -1,0 +1,29 @@
+
+/*************************************************
+*	#main-footer
+**************************************************/
+
+.main-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgba(95, 158, 160, 0.8);
+    padding-top: 2px;
+    padding-bottom: 0;
+    text-align: center;
+    color: white;
+    border-color: rgba(95, 158, 160, 0.8);
+    border: solid 1px rgba(95, 158, 160, 0.8);
+  }
+  
+  .main-footer a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .main-footer a:hover {
+    color: #0a0a0a;
+  }
+  
+ 

@@ -1,0 +1,41 @@
+<h1>List of All Rooms</h1>
+
+<div class="row">
+  <div class="col-md-6">
+    <h2>Room Images</h2>
+    <div class="row">
+      <div class="col-md-6 mb-4" *ngFor="let room of allRooms">
+        <div class="card">
+          <img [src]="'assets/images/Rooms/room' + room.roomNumber + '.jpg'" class="card-img-top" alt="Room Image">
+          <div class="card-body">
+            <h5 class="card-title">Room {{ room.roomNumber }}</h5>
+            <p class="card-text">{{ room.roomType }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <h2>Room Details and Prices(R)</h2>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Room Number</th>
+          <th>Room Type</th>
+          <th>Night Price (R)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let room of allRooms">
+          <td>{{ room.roomNumber }}</td>
+          <td>{{ room.roomType }}</td>
+          <td>{{ room.nightPrice }}</td>
+          <!-- <a [routerLink]="['/guest/bookroom', room.roomNumber]" class="btn btn-primary">Book Room</a> -->
+          <h3 routerLink="/guest/bookroom" routerLinkActive="active">Book Room</h3>
+
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

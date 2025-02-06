@@ -1,0 +1,34 @@
+.center-details {
+    display: flex;
+    justify-content: left;
+    align-items: flex-start; 
+    height: 100vh; 
+  }
+  
+  .vertical-center {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+  }
+  
+  .profile-info {
+    text-align: left;
+    width: 80%; 
+    margin-bottom: 20px; 
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .col {
+    flex: 0 0 48%;
+    margin-bottom: 10px;
+  }
+  
+  .back-link {
+    margin-top: 20px; 
+  }
+  

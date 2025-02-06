@@ -1,0 +1,141 @@
+2024-06-03 22:01:34,504 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-03 22:01:34,644 [NonParallelWorker] WARN GuestsBookingsController - Guest not found for the given username.
+2024-06-03 22:01:34,673 [NonParallelWorker] WARN GuestsBookingsController - Guest not found for the given username.
+2024-06-04 17:51:03,486 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-04 17:51:03,783 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET MyBookings: /gst
+2024-06-04 17:51:03,867 [NonParallelWorker] WARN GuestsBookingsController - Guest not found for the given username.
+2024-06-04 17:51:03,873 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController Update Booking by Id
+2024-06-04 17:51:03,876 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET MyBookings: /gst
+2024-06-04 17:51:03,957 [NonParallelWorker] WARN GuestsBookingsController - Guest not found for the given username.
+2024-06-04 17:51:03,959 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController Update Booking by Id
+2024-06-04 17:51:03,983 [NonParallelWorker] INFO GuestsController - GuestsController - POST Guests: /gst
+2024-06-04 17:51:04,153 [NonParallelWorker] INFO GuestsController - GuestsController - PUT Guests
+2024-06-04 17:51:04,177 [NonParallelWorker] INFO GuestsController - GuestsController - PUT Guests
+2024-06-04 17:51:04,177 [NonParallelWorker] WARN GuestsController - The Id provided is not assigned to any guest
+2024-06-04 17:51:04,250 [NonParallelWorker] INFO GuestsController - Reading guest info by Id
+2024-06-04 17:51:04,268 [NonParallelWorker] INFO GuestsController - GuestsController - PUT Guests
+2024-06-04 17:51:04,273 [NonParallelWorker] INFO GuestsController - GuestsController get guest by name
+2024-06-04 17:51:04,281 [NonParallelWorker] INFO GuestsController - GuestsController - DELETE Guests
+2024-06-04 17:51:04,282 [NonParallelWorker] WARN GuestsController - Guest not found
+2024-06-04 17:51:04,296 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:04,310 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:04,313 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:04,315 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:04,317 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:04,329 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,364 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,364 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,367 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,370 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,370 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,372 [NonParallelWorker] INFO GuestsController - RoomsController - GET room by Id
+2024-06-04 17:51:04,375 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,376 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,376 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,376 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,378 [NonParallelWorker] INFO GuestsController - RoomsController - GET rooms
+2024-06-04 17:51:04,390 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,390 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,391 [NonParallelWorker] INFO GuestsController - RoomsController - GET room by Id
+2024-06-04 17:51:04,393 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,395 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,396 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,399 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,401 [NonParallelWorker] INFO GuestsController - RoomsController - DELETE room
+2024-06-04 17:51:04,419 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,419 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,419 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,420 [NonParallelWorker] INFO GuestsController - RoomsController - DELETE room
+2024-06-04 17:51:04,425 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:04,428 [NonParallelWorker] INFO GuestsController - RoomsController - PUT room BY Id
+2024-06-04 17:51:30,097 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-04 17:51:30,408 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET MyBookings: /gst
+2024-06-04 17:51:30,486 [NonParallelWorker] WARN GuestsBookingsController - Guest not found for the given username.
+2024-06-04 17:51:30,490 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController Update Booking by Id
+2024-06-04 17:51:30,493 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET MyBookings: /gst
+2024-06-04 17:51:30,572 [NonParallelWorker] WARN GuestsBookingsController - Guest not found for the given username.
+2024-06-04 17:51:30,574 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController Update Booking by Id
+2024-06-04 17:51:30,611 [NonParallelWorker] INFO GuestsController - GuestsController - POST Guests: /gst
+2024-06-04 17:51:30,777 [NonParallelWorker] INFO GuestsController - GuestsController - PUT Guests
+2024-06-04 17:51:30,789 [NonParallelWorker] INFO GuestsController - GuestsController - PUT Guests
+2024-06-04 17:51:30,789 [NonParallelWorker] WARN GuestsController - The Id provided is not assigned to any guest
+2024-06-04 17:51:30,818 [NonParallelWorker] INFO GuestsController - Reading guest info by Id
+2024-06-04 17:51:30,830 [NonParallelWorker] INFO GuestsController - GuestsController - PUT Guests
+2024-06-04 17:51:30,837 [NonParallelWorker] INFO GuestsController - GuestsController get guest by name
+2024-06-04 17:51:30,846 [NonParallelWorker] INFO GuestsController - GuestsController - DELETE Guests
+2024-06-04 17:51:30,847 [NonParallelWorker] WARN GuestsController - Guest not found
+2024-06-04 17:51:30,862 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:30,875 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:30,877 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:30,879 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:30,881 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:51:30,893 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,932 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,933 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,936 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,939 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,939 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,940 [NonParallelWorker] INFO GuestsController - RoomsController - GET room by Id
+2024-06-04 17:51:30,944 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,945 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,946 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,946 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,949 [NonParallelWorker] INFO GuestsController - RoomsController - GET rooms
+2024-06-04 17:51:30,963 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,964 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,964 [NonParallelWorker] INFO GuestsController - RoomsController - GET room by Id
+2024-06-04 17:51:30,966 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,968 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,970 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,973 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,976 [NonParallelWorker] INFO GuestsController - RoomsController - DELETE room
+2024-06-04 17:51:30,993 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,994 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,994 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:30,994 [NonParallelWorker] INFO GuestsController - RoomsController - DELETE room
+2024-06-04 17:51:31,000 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:51:31,001 [NonParallelWorker] INFO GuestsController - RoomsController - PUT room BY Id
+2024-06-04 17:52:51,872 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET all Bookings: /gst
+2024-06-04 17:52:52,057 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET MyBookings: /gst
+2024-06-04 17:52:52,115 [NonParallelWorker] WARN GuestsBookingsController - Guest not found for the given username.
+2024-06-04 17:52:52,118 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController Update Booking by Id
+2024-06-04 17:52:52,121 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController - GET MyBookings: /gst
+2024-06-04 17:52:52,169 [NonParallelWorker] WARN GuestsBookingsController - Guest not found for the given username.
+2024-06-04 17:52:52,173 [NonParallelWorker] INFO GuestsBookingsController - GuestsBookingsController Update Booking by Id
+2024-06-04 17:52:52,199 [NonParallelWorker] INFO GuestsController - GuestsController - POST Guests: /gst
+2024-06-04 17:52:52,344 [NonParallelWorker] INFO GuestsController - GuestsController - PUT Guests
+2024-06-04 17:52:52,371 [NonParallelWorker] INFO GuestsController - Reading guest info by Id
+2024-06-04 17:52:52,392 [NonParallelWorker] INFO GuestsController - GuestsController get guest by name
+2024-06-04 17:52:52,402 [NonParallelWorker] INFO GuestsController - GuestsController - DELETE Guests
+2024-06-04 17:52:52,403 [NonParallelWorker] WARN GuestsController - Guest not found
+2024-06-04 17:52:52,406 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:52:52,418 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:52:52,420 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:52:52,422 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:52:52,425 [NonParallelWorker] INFO GuestsController - GuestsController - GET all Guests: /gst
+2024-06-04 17:52:52,455 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,479 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,480 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,483 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,487 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,488 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,489 [NonParallelWorker] INFO GuestsController - RoomsController - GET room by Id
+2024-06-04 17:52:52,492 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,493 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,493 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,493 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,495 [NonParallelWorker] INFO GuestsController - RoomsController - GET rooms
+2024-06-04 17:52:52,505 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,505 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,506 [NonParallelWorker] INFO GuestsController - RoomsController - GET room by Id
+2024-06-04 17:52:52,507 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,509 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,510 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,513 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,515 [NonParallelWorker] INFO GuestsController - RoomsController - DELETE room
+2024-06-04 17:52:52,524 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,524 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,524 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,527 [NonParallelWorker] INFO GuestsController - RoomsController - DELETE room
+2024-06-04 17:52:52,530 [NonParallelWorker] INFO GuestsController - RoomsController - POST rooms
+2024-06-04 17:52:52,532 [NonParallelWorker] INFO GuestsController - RoomsController - PUT room BY Id

@@ -1,0 +1,12 @@
+
+<div class="row">
+    <div class="col  col--12">
+    <li>Phone: 011-767-8656</li>
+      <li>Email: Zaharahotel@gmail.com</li>
+      <div class="back-link">
+        <a *ngIf="isAdmin" routerLink="/admin/gstlist" routerLinkActive="active">Back to List</a>
+        <a *ngIf="isGuest" routerLink="/guest/viewrooms" routerLinkActive="active">Back to List</a>
+      </div>
+      
+    </div>
+  </div>

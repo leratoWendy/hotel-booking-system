@@ -1,0 +1,17 @@
+section {
+    background-color: #e3f2fd;
+    width: auto;
+ }
+ 
+
+ h4 {
+   color: rgb(14, 131, 152);
+   display: inline;
+   padding-left: 30px;
+ }
+ 
+ h4:hover {
+       color: rgba(33, 129, 144, 0.867);
+       cursor: pointer;
+   }
+ 

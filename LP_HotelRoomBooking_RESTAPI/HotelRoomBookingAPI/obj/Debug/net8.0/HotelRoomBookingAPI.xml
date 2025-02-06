@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelRoomBookingAPI</name>
+    </assembly>
+    <members>
+        <member name="T:HotelRoomBookingAPI.AuthModels.ApplicationSettings">
+            <summary>
+            Represents application settings related to JWT authentication.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationSettings.JWT_Secret">
+            <summary>
+            Gets or sets the JWT secret key.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationSettings.JwtCookieName">
+            <summary>
+            Gets or sets the JWT cookie name.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationSettings.SigningKey">
+            <summary>
+            Gets or sets the signing key for JWT.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationSettings.ExpiryInMinutes">
+            <summary>
+            Gets or sets the expiration time for JWT in minutes.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationSettings.JWT_Site_URL">
+            <summary>
+            Gets or sets the site URL for JWT.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationSettings.Client_URL">
+            <summary>
+            Gets or sets the client URL for JWT.
+            </summary>
+        </member>
+        <member name="T:HotelRoomBookingAPI.AuthModels.ApplicationUser">
+            <summary>
+            Represents a user in the application with extended properties.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationUser.FirstName">
+            <summary>
+            Gets or sets the first name of the user.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationUser.LastName">
+            <summary>
+            Gets or sets the last name of the user.
+            </summary>
+        </member>
+        <member name="T:HotelRoomBookingAPI.AuthModels.ApplicationUserModel">
+            <summary>
+            Represents a model for user information.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationUserModel.UserName">
+            <summary>
+            Gets or sets the user name.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationUserModel.Email">
+            <summary>
+            Gets or sets the email address.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationUserModel.Password">
+            <summary>
+            Gets or sets the password.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationUserModel.FirstName">
+            <summary>
+            Gets or sets the first name.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationUserModel.LastName">
+            <summary>
+            Gets or sets the last name.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.ApplicationUserModel.Role">
+            <summary>
+            Gets or sets the role of the user.
+            </summary>
+        </member>
+        <member name="T:HotelRoomBookingAPI.AuthModels.AuthenticationContext">
+            <summary>
+            Represents the database context for authentication-related operations.
+            </summary>
+        </member>
+        <member name="M:HotelRoomBookingAPI.AuthModels.AuthenticationContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{HotelRoomBookingAPI.AuthModels.AuthenticationContext})">
+            <summary>
+            Initializes a new instance of the <see cref="T:HotelRoomBookingAPI.AuthModels.AuthenticationContext"/> class.
+            </summary>
+            <param name="options">The options to be used by the context.</param>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.AuthenticationContext.ApplicationUsers">
+            <summary>
+            Gets or sets the DbSet for ApplicationUsers.
+            </summary>
+        </member>
+        <member name="M:HotelRoomBookingAPI.AuthModels.AuthenticationContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <summary>
+            Configures the model used by the entity framework core.
+            </summary>
+            <param name="builder">The model builder instance.</param>
+        </member>
+        <member name="T:HotelRoomBookingAPI.AuthModels.LoginModel">
+            <summary>
+            Represents a model for user login information.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.LoginModel.UserName">
+            <summary>
+            Gets or sets the user name for login.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.LoginModel.Password">
+            <summary>
+            Gets or sets the password for login.
+            </summary>
+        </member>
+        <member name="T:HotelRoomBookingAPI.AuthModels.UserAccountViewModel">
+            <summary>
+            Represents a view model for user account information.
+            </summary>
+        </member>
+        <member name="M:HotelRoomBookingAPI.AuthModels.UserAccountViewModel.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:HotelRoomBookingAPI.AuthModels.UserAccountViewModel"/> class.
+            </summary>
+        </member>
+        <member name="M:HotelRoomBookingAPI.AuthModels.UserAccountViewModel.#ctor(Microsoft.AspNetCore.Identity.IdentityUser,System.Collections.Generic.List{System.String})">
+            <summary>
+            Initializes a new instance of the <see cref="T:HotelRoomBookingAPI.AuthModels.UserAccountViewModel"/> class with specified user and roles.
+            </summary>
+            <param name="aus">The IdentityUser instance.</param>
+            <param name="userRoles">The list of roles held by the user.</param>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.UserAccountViewModel.UserName">
+            <summary>
+            Gets or sets the user name.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.UserAccountViewModel.Email">
+            <summary>
+            Gets or sets the email address.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.UserAccountViewModel.FirstName">
+            <summary>
+            Gets or sets the first name of the user.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.UserAccountViewModel.LastName">
+            <summary>
+            Gets or sets the last name of the user.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.AuthModels.UserAccountViewModel.RolesHeld">
+            <summary>
+            Gets or sets the list of roles held by the user.
+            </summary>
+        </member>
+        <member name="T:HotelRoomBookingAPI.Repository.GuestsBookingsRepo">
+            <summary>
+            Repository class for handling guest bookings.
+            </summary>
+        </member>
+        <member name="M:HotelRoomBookingAPI.Repository.GuestsBookingsRepo.#ctor(HotelRoomBookingAPI.Models.LP_HotelRoomBooking_EFDBContext)">
+            <summary>
+            Initializes a new instance of the <see cref="T:HotelRoomBookingAPI.Repository.GuestsBookingsRepo"/> class.
+            </summary>
+            <param name="context">The database context.</param>
+        </member>
+        <member name="M:HotelRoomBookingAPI.Repository.GuestsBookingsRepo.GetGuestsBookings(System.Int32)">
+            <summary>
+            Get all bookings for a specific guest.
+            </summary>
+            <param name="guestId">The guest ID.</param>
+            <returns>A list of <see cref="T:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM"/>.</returns>
+        </member>
+        <member name="M:HotelRoomBookingAPI.Repository.GuestsBookingsRepo.GetBookingDetails(System.Int32)">
+            <summary>
+            Get details of a specific booking.
+            </summary>
+            <param name="bookingId">The booking ID.</param>
+            <returns>A <see cref="T:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM"/> object.</returns>
+        </member>
+        <member name="M:HotelRoomBookingAPI.Repository.GuestsBookingsRepo.GetBookingsByRoomId(System.Int32)">
+            <summary>
+            Get all bookings for a specific room.
+            </summary>
+            <param name="roomId">The room ID.</param>
+            <returns>A list of <see cref="T:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM"/>.</returns>
+        </member>
+        <member name="T:HotelRoomBookingAPI.Services.IdentityHelper">
+            <summary>
+            Helper class for identity-related operations, such as checking user roles.
+            </summary>
+        </member>
+        <member name="M:HotelRoomBookingAPI.Services.IdentityHelper.#ctor(Microsoft.AspNetCore.Identity.UserManager{HotelRoomBookingAPI.AuthModels.ApplicationUser},HotelRoomBookingAPI.AuthModels.AuthenticationContext,Microsoft.AspNetCore.Identity.RoleManager{Microsoft.AspNetCore.Identity.IdentityRole})">
+            <summary>
+            Initializes a new instance of the <see cref="T:HotelRoomBookingAPI.Services.IdentityHelper"/> class.
+            </summary>
+            <param name="userManager">The UserManager instance for managing users.</param>
+            <param name="context">The AuthenticationContext instance for authentication operations.</param>
+            <param name="roleManager">The RoleManager instance for managing roles.</param>
+        </member>
+        <member name="M:HotelRoomBookingAPI.Services.IdentityHelper.IsUserInRole(System.String,System.String)">
+            <summary>
+            Checks if a user is in a specific role.
+            </summary>
+            <param name="userId">The ID of the user to check.</param>
+            <param name="roleName">The name of the role to check.</param>
+            <returns>True if the user is in the specified role; otherwise, false.</returns>
+        </member>
+        <member name="M:HotelRoomBookingAPI.Services.IdentityHelper.IsSuperUserRole(System.String)">
+            <summary>
+            Checks if a user is in a super user role.
+            </summary>
+            <param name="userId">The ID of the user to check.</param>
+            <returns>True if the user is in a super user role; otherwise, false.</returns>
+        </member>
+        <member name="T:HotelRoomBookingAPI.Services.LocalLogHelper">
+            <summary>
+            Helper class for obtaining loggers using log4net.
+            </summary>
+        </member>
+        <member name="M:HotelRoomBookingAPI.Services.LocalLogHelper.GetLogger(System.String)">
+            <summary>
+            Gets a logger for the calling class.
+            </summary>
+            <param name="filename">The filename of the calling class (automatically provided).</param>
+            <returns>An ILog instance for logging.</returns>
+        </member>
+        <member name="T:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM">
+            <summary>
+            Represents a view model for guest bookings.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM.BookingId">
+            <summary>
+            Gets or sets the unique identifier for the booking.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM.GuestId">
+            <summary>
+            Gets or sets the ID of the guest making the booking.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM.RoomId">
+            <summary>
+            Gets or sets the ID of the room booked.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM.CheckinDate">
+            <summary>
+            Gets or sets the check-in date for the booking.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM.CheckoutDate">
+            <summary>
+            Gets or sets the check-out date for the booking.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestsBookingsVM.TotalPrice">
+            <summary>
+            Gets or sets the total price for the booking.
+            </summary>
+        </member>
+        <member name="T:HotelRoomBookingAPI.ViewModel.GuestVM">
+            <summary>
+            Represents a view model for guest information.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestVM.GuestId">
+            <summary>
+            Gets or sets the unique identifier for the guest.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestVM.FirstName">
+            <summary>
+            Gets or sets the first name of the guest.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestVM.LastName">
+            <summary>
+            Gets or sets the last name of the guest.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestVM.IdentityUserName">
+            <summary>
+            Gets or sets the identity user name associated with the guest.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestVM.Email">
+            <summary>
+            Gets or sets the email address of the guest.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.GuestVM.Phone">
+            <summary>
+            Gets or sets the phone number of the guest.
+            </summary>
+        </member>
+        <member name="T:HotelRoomBookingAPI.ViewModel.RoomsVM">
+            <summary>
+            Represents a view model for room information.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.RoomsVM.RoomId">
+            <summary>
+            Gets or sets the unique identifier for the room.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.RoomsVM.RoomNumber">
+            <summary>
+            Gets or sets the room number.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.RoomsVM.RoomType">
+            <summary>
+            Gets or sets the type of the room.
+            </summary>
+        </member>
+        <member name="P:HotelRoomBookingAPI.ViewModel.RoomsVM.NightPrice">
+            <summary>
+            Gets or sets the price per night for the room.
+            </summary>
+        </member>
+        <member name="T:SecureTradeCoreRestAPI.Program">
+            <summary>
+            Main entry point for the REST API application.
+            </summary>
+        </member>
+        <member name="M:SecureTradeCoreRestAPI.Program.Main(System.String[])">
+            <summary>
+            Main method to start the application.
+            </summary>
+            <param name="args">Command-line arguments.</param>
+        </member>
+    </members>
+</doc>

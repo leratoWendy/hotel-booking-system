@@ -1,0 +1,24 @@
+<h1>List of All Guests</h1>
+<!-- <a routerLink="/admin/brks/create" routerLinkActive="active">Add a new Brokers</a> -->
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>FirstName</th>
+      <th>LastName</th>
+      <th>UserName</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let gst of allGuests">
+      <td>{{gst.firstName}}</td>
+      <td> {{gst.lastName}}</td>
+      <td>{{gst.identityUserName}}</td>
+      <td>
+      
+      </td>
+    </tr>
+  </tbody>
+</table>
+

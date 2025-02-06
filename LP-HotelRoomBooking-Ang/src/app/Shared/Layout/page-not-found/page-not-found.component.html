@@ -1,0 +1,15 @@
+<p>Sorry we don't have the content you're looking for!</p>
+
+<a routerLink="/" routerLinkActive="active"
+  >Click here to go to the Home Page
+  <img
+    *ngIf="notfoundpng else loggedOut"
+    [src]="notfoundpng"
+    width="65px"
+    height="60px"
+  />
+</a>
+
+<ng-template #loggedOut>
+  <img src=" /assets/images/fdm-logo.png" />
+</ng-template>

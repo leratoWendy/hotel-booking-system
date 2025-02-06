@@ -1,0 +1,29 @@
+<div class="center-details">
+  <div class="vertical-center">
+    <div *ngIf="userProfileData" class="profile-info">
+      <h1>Hello {{ userProfileData.firstName }}, review your profile:</h1>
+      <div>
+        <hr />
+        <dl class="row">
+          <div class="col col--3">
+            <dt>First Name:</dt>
+            <dt>Last Name:</dt>
+            <dt>Email:</dt>
+            <dt>UserName:</dt>
+          </div>
+          <div class="col col--7">
+            <dd>{{ userProfileData.firstName }}</dd>
+            <dd>{{ userProfileData.lastName }}</dd>
+            <dd>{{ userProfileData.email }}</dd>
+            <dd>{{ userProfileData.userName }}</dd>
+          </div>
+        </dl>
+        <hr />
+      </div>
+    </div>
+    <div class="back-link">
+      <a *ngIf="isAdmin" routerLink="/admin/gstlist" routerLinkActive="active">Back to List</a>
+      <a *ngIf="isGuest" routerLink="/guest/viewrooms" routerLinkActive="active">Back to List</a>
+    </div>
+  </div>
+</div>

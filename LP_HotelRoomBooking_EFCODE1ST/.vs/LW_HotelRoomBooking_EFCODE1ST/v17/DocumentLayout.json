@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|c:\\users\\local.user.lapsaf80204\\documents\\web app\\lw_hotelroombooking_efcode1st\\pocos\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\pocos\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\pocos\\migrations\\202405090914387_adduserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\migrations\\202405090914387_adduserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\pocos\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\pocos\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\pocos\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\pocos\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\pocos\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\local.user.LAPSAF80204\\Downloads\\Repository wendy\\Models\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\pocos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{247C8190-6DBD-4A0B-AE56-030421793724}|Pocos\\Pocos.csproj|solutionrelative:pocos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202405090914387_addUserData.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Migrations\\202405090914387_addUserData.cs",
+              "RelativeDocumentMoniker": "Pocos\\Migrations\\202405090914387_addUserData.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Migrations\\202405090914387_addUserData.cs",
+              "RelativeToolTip": "Pocos\\Migrations\\202405090914387_addUserData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:14:53.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Downloads\\Repository wendy\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Repository wendy\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Downloads\\Repository wendy\\Models\\Room.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Repository wendy\\Models\\Room.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:03:15.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\App.config",
+              "RelativeDocumentMoniker": "Pocos\\App.config",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\App.config",
+              "RelativeToolTip": "Pocos\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-03T13:58:49.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Guest.cs",
+              "RelativeDocumentMoniker": "Pocos\\Guest.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Guest.cs",
+              "RelativeToolTip": "Pocos\\Guest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:02:18.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Booking.cs",
+              "RelativeDocumentMoniker": "Pocos\\Booking.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Booking.cs",
+              "RelativeToolTip": "Pocos\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:20:26.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Payment.cs",
+              "RelativeDocumentMoniker": "Pocos\\Payment.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Payment.cs",
+              "RelativeToolTip": "Pocos\\Payment.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:21:07.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Pocos\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Pocos\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:58:47.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Room.cs",
+              "RelativeDocumentMoniker": "Pocos\\Room.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Room.cs",
+              "RelativeToolTip": "Pocos\\Room.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:10:39.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "Pocos\\BookingStatus.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\BookingStatus.cs",
+              "RelativeToolTip": "Pocos\\BookingStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:31:40.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Model1.cs",
+              "RelativeDocumentMoniker": "Pocos\\Model1.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\Web App\\LW_HotelRoomBooking_EFCODE1ST\\Pocos\\Model1.cs",
+              "RelativeToolTip": "Pocos\\Model1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:35:06.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\controllers\\guestsbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\controllers\\guestsbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\repository\\guestsbookingsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\repository\\guestsbookingsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\authmodels\\useraccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\authmodels\\useraccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\authmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\authmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\authmodels\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\authmodels\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\authmodels\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\authmodels\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\authmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\authmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\authmodels\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\authmodels\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\viewmodel\\roomsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\viewmodel\\roomsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\viewmodel\\guestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\viewmodel\\guestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\viewmodel\\guestsbookingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\viewmodel\\guestsbookingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\services\\localloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\services\\localloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\services\\identityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\services\\identityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\models\\lw_hotelroombooking_efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\models\\lw_hotelroombooking_efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\models\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\models\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\hotelroombookingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\hotelroombookingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\restapi.nunittests\\guestscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|solutionrelative:restapi.nunittests\\guestscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\restapi.nunittests\\guestbookingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|solutionrelative:restapi.nunittests\\guestbookingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\restapi.nunittests\\roomscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|solutionrelative:restapi.nunittests\\roomscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\restapi.nunittests\\inmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|solutionrelative:restapi.nunittests\\inmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\restapi.nunittests\\restapi.nunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2944C32-D19B-4E0D-B126-34F43755372C}|RESTApi.NunitTests\\RESTApi.NunitTests.csproj|solutionrelative:restapi.nunittests\\restapi.nunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\hotelroombookingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\hotelroombookingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\migrations\\20240508141007_updateinitialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\migrations\\20240508141007_updateinitialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|c:\\users\\local.user.lapsaf80204\\documents\\.net rest api week 2\\lw_hotelroombooking_restapi\\hotelroombookingapi\\migrations\\20240508114850_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89528830-3BC1-4D5B-AAB2-4A7857C04718}|HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj|solutionrelative:hotelroombookingapi\\migrations\\20240508114850_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\AuthModels\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\LoginModel.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\AuthModels\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:18:48.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\UserAccountViewModel.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\AuthModels\\UserAccountViewModel.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\UserAccountViewModel.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\AuthModels\\UserAccountViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:26:45.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuestsBookingsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Repository\\GuestsBookingsRepo.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Repository\\GuestsBookingsRepo.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Repository\\GuestsBookingsRepo.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Repository\\GuestsBookingsRepo.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwDIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:25:11.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUserController.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\ApplicationUserController.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Controllers\\ApplicationUserController.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\ApplicationUserController.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Controllers\\ApplicationUserController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAQwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:18:26.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\log4net.config",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\log4net.config",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\log4net.config",
+              "RelativeToolTip": "HotelRoomBookingAPI\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-12T10:12:56.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuestsBookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\GuestsBookingsController.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Controllers\\GuestsBookingsController.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\GuestsBookingsController.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Controllers\\GuestsBookingsController.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAqwOUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:10:03.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationContext.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\AuthenticationContext.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\AuthModels\\AuthenticationContext.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\AuthenticationContext.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\AuthModels\\AuthenticationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:58:33.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\ApplicationUserModel.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\AuthModels\\ApplicationUserModel.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\ApplicationUserModel.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\AuthModels\\ApplicationUserModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:15:58.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\AuthModels\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\ApplicationUser.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\AuthModels\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:54:49.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\AuthModels\\ApplicationSettings.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\AuthModels\\ApplicationSettings.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\AuthModels\\ApplicationSettings.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:20:14.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Program.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAQwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:25:58.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HotelRoomBookingAPI",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj",
+              "RelativeToolTip": "HotelRoomBookingAPI\\HotelRoomBookingAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T13:24:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Controllers\\RoomsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwJUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:30:46.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\RoomsControllerTests.cs",
+              "RelativeDocumentMoniker": "RESTApi.NunitTests\\RoomsControllerTests.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\RoomsControllerTests.cs",
+              "RelativeToolTip": "RESTApi.NunitTests\\RoomsControllerTests.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowDoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:17:05.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GuestsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\GuestsControllerTests.cs",
+              "RelativeDocumentMoniker": "RESTApi.NunitTests\\GuestsControllerTests.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\GuestsControllerTests.cs",
+              "RelativeToolTip": "RESTApi.NunitTests\\GuestsControllerTests.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwO0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:32:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GuestBookingsTests.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\GuestBookingsTests.cs",
+              "RelativeDocumentMoniker": "RESTApi.NunitTests\\GuestBookingsTests.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\GuestBookingsTests.cs",
+              "RelativeToolTip": "RESTApi.NunitTests\\GuestBookingsTests.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAuwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:18:26.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RESTApi.NunitTests",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\RESTApi.NunitTests.csproj",
+              "RelativeDocumentMoniker": "RESTApi.NunitTests\\RESTApi.NunitTests.csproj",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\RESTApi.NunitTests.csproj",
+              "RelativeToolTip": "RESTApi.NunitTests\\RESTApi.NunitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T13:10:17.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InMemoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\InMemoryContext.cs",
+              "RelativeDocumentMoniker": "RESTApi.NunitTests\\InMemoryContext.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\RESTApi.NunitTests\\InMemoryContext.cs",
+              "RelativeToolTip": "RESTApi.NunitTests\\InMemoryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:53:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HotelRoomBookingAPI.http",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\HotelRoomBookingAPI.http",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\HotelRoomBookingAPI.http",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\HotelRoomBookingAPI.http",
+              "RelativeToolTip": "HotelRoomBookingAPI\\HotelRoomBookingAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-11T14:49:11.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T14:46:40.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Models\\BookingStatus.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\BookingStatus.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Models\\BookingStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:29:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Models\\Payment.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:03:31.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocalLogHelper.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Services\\LocalLogHelper.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Services\\LocalLogHelper.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Services\\LocalLogHelper.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Services\\LocalLogHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T01:16:59.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IdentityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Services\\IdentityHelper.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Services\\IdentityHelper.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Services\\IdentityHelper.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Services\\IdentityHelper.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T01:16:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\Room.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Models\\Room.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:02:31.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomsVM.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\ViewModel\\RoomsVM.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\ViewModel\\RoomsVM.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\ViewModel\\RoomsVM.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\ViewModel\\RoomsVM.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:58:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GuestsBookingsVM.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\ViewModel\\GuestsBookingsVM.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\ViewModel\\GuestsBookingsVM.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\ViewModel\\GuestsBookingsVM.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\ViewModel\\GuestsBookingsVM.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:56:42.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\Booking.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Models\\Booking.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:52:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GuestVM.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\ViewModel\\GuestVM.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\ViewModel\\GuestVM.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\ViewModel\\GuestVM.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\ViewModel\\GuestVM.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:56:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\Guest.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Models\\Guest.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:52:55.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GuestsController.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\GuestsController.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Controllers\\GuestsController.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\GuestsController.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Controllers\\GuestsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:22:15.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LW_HotelRoomBooking_EFDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\LW_HotelRoomBooking_EFDBContext.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Models\\LW_HotelRoomBooking_EFDBContext.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Models\\LW_HotelRoomBooking_EFDBContext.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Models\\LW_HotelRoomBooking_EFDBContext.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:07:37.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Controllers\\UserProfileController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:29:28.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240508141007_UpdateinitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Migrations\\20240508141007_UpdateinitialMigration.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Migrations\\20240508141007_UpdateinitialMigration.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Migrations\\20240508141007_UpdateinitialMigration.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Migrations\\20240508141007_UpdateinitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:10:07.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240508114850_initial.cs",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Migrations\\20240508114850_initial.cs",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\Migrations\\20240508114850_initial.cs",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\Migrations\\20240508114850_initial.cs",
+              "RelativeToolTip": "HotelRoomBookingAPI\\Migrations\\20240508114850_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:48:50.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelRoomBookingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\local.user.LAPSAF80204\\Documents\\.NET REST API Week 2\\LW_HotelRoomBooking_RESTAPI\\HotelRoomBookingAPI\\appsettings.json",
+              "RelativeToolTip": "HotelRoomBookingAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T11:28:10.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
